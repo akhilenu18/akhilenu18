@@ -22,7 +22,7 @@
 
 > *Frontend Developer passionate about transforming complex business requirements into intuitive, high-performance interfaces.*
 
-I'm a **Frontend Developer with 4 years of experience** building scalable web applications in the **React ecosystem**. I specialize in Supply Chain Management (SCM), Logistics, and Digital Media platforms — turning complex data into clean, blazing-fast UIs.
+I'm a **Frontend Developer with 4+ years of experience** building scalable web applications in the **React ecosystem**. I specialize in Supply Chain Management (SCM), Logistics, and Digital Media platforms — turning complex data into clean, blazing-fast UIs.
 
 - 🚀 &nbsp;Reduced React app load times by **30%** using code-splitting & virtualization
 - 📈 &nbsp;Improved **Core Web Vitals scores by 20%** for Next.js consumer-facing apps
